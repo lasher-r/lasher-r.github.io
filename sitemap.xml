@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>lasher.dev/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/bookshelf/</loc>
+    <loc>lasher.dev/bookshelf/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>lasher.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/welcome/</loc>
+    <loc>lasher.dev/posts/welcome/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>lasher.dev/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>lasher.dev/posts/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>lasher.dev/tags/</loc>
   </url>
   
 </urlset>

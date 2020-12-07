@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lasher.dev</title>
-    <link>/</link>
+    <link>lasher.dev/</link>
     <description>Recent content on Lasher.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="lasher.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/about/</link>
+      <link>lasher.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>lasher.dev/about/</guid>
       <description>about Current stack:  Full stack MERN Jest and Mocha/Chai git docker gcloud jenkins scripting languages (bash, python, AppleScript) some C++ some UML  Career history: I am a software engineer. I work for a company called Nobrolla. It&amp;rsquo;s a company that my father and I started. It was originally a weather app and you can probably still find posts by our old twitter bot that tweeted rain alerts to baseball fandoms.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/bookshelf/</link>
+      <link>lasher.dev/bookshelf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bookshelf/</guid>
+      <guid>lasher.dev/bookshelf/</guid>
       <description>Bookshelf Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
 Software Craftsman, The: Professionalism, Pragmatism, Pride by Sandro Mancuso
 C++ Coding Standards: 101 Rules, Guidelines, and Best Practices by Andrei Alexandrescu</description>
@@ -28,10 +28,10 @@ C++ Coding Standards: 101 Rules, Guidelines, and Best Practices by Andrei Alexan
     
     <item>
       <title>hello world [again]</title>
-      <link>/posts/welcome/</link>
+      <link>lasher.dev/posts/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/welcome/</guid>
+      <guid>lasher.dev/posts/welcome/</guid>
       <description>This is roughly my third iteration of my site. The first was essentially me shouting half baked ideas about software development into the void. The second was a repository for things that I need regularly but not often. Things like dot files for different types of machines, common shell commands that I don&amp;rsquo;t use everyday, and articles that cover questions that I sometimes get about the process of development.
 I say &amp;ldquo;roughly&amp;rdquo; because as with many iterative processes, the transition from one category to the next is gradual with some regression and some spurts forward.</description>
     </item>

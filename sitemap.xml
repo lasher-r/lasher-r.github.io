@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lasher.dev/posts/how-bduf-leads-to-bom/</loc>
+    <lastmod>2021-02-27T22:49:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/</loc>
+    <lastmod>2021-02-27T22:49:33-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/posts/</loc>
+    <lastmod>2021-02-27T22:49:33-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lasher.dev/about/</loc>
     <priority>0</priority>
   </url>
@@ -18,14 +33,6 @@
   
   <url>
     <loc>https://lasher.dev/posts/welcome/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lasher.dev/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lasher.dev/posts/</loc>
   </url>
   
   <url>

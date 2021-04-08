@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lasher.dev/trips/chicago_basin/</loc>
+    <lastmod>2021-04-08T11:37:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/</loc>
+    <lastmod>2021-04-08T11:37:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/trips/</loc>
+    <lastmod>2021-04-08T11:37:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/trips/coyote_gulch/</loc>
+    <lastmod>2020-09-12T11:49:50-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lasher.dev/about/</loc>
     <priority>0</priority>
   </url>
@@ -10,6 +30,15 @@
   <url>
     <loc>https://lasher.dev/bookshelf/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/resume/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/authors/</loc>
   </url>
   
   <url>
@@ -21,11 +50,11 @@
   </url>
   
   <url>
-    <loc>https://lasher.dev/</loc>
+    <loc>https://lasher.dev/posts/</loc>
   </url>
   
   <url>
-    <loc>https://lasher.dev/posts/</loc>
+    <loc>https://lasher.dev/series/</loc>
   </url>
   
   <url>

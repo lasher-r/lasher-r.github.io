@@ -5,14 +5,40 @@
     <link>https://lasher.dev/</link>
     <description>Recent content on Lasher.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lasher.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Apr 2021 11:37:49 -0600</lastBuildDate><atom:link href="https://lasher.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicago basin</title>
+      <link>https://lasher.dev/trips/chicago_basin/</link>
+      <pubDate>Thu, 08 Apr 2021 11:37:49 -0600</pubDate>
+      
+      <guid>https://lasher.dev/trips/chicago_basin/</guid>
+      <description>Mt Eolus from Chicago Basin    Description    The trail head (8200 ft) is accessible using the Durango-Silverton narrow gauge train. We board at 0845. We get let off the train in Needleton at 1115. From there it&amp;rsquo;s a ~6 mile hike along Needle Creek to camp in Chicago Basin (11200 ft), just south of Twin Lakes. It&amp;rsquo;s likely that there will still be time left in the day so there is an optional trip up to columbine pass (12665 ft) to the south east.</description>
+    </item>
+    
+    <item>
+      <title>Coyote gulch</title>
+      <link>https://lasher.dev/trips/coyote_gulch/</link>
+      <pubDate>Sat, 12 Sep 2020 11:49:50 -0600</pubDate>
+      
+      <guid>https://lasher.dev/trips/coyote_gulch/</guid>
+      <description>Coyote Gulch trip.    Red Well to Coyote Gulch is a 27.7 mile moderately trafficked out and back trail located near Escalante, Utah that features a waterfall and is rated as moderate.
+ Details    Start/end location: 37.43,-111.146
+Declination: 10.40° E ± 0.36°
+Length: 27.7 mi
+Elevation gain: 3,766 ft
+Route type: Out &amp;amp; Back
+Duration of trip: 4 days/3 nights
+Trail    Starts and ends at the Red Well Trail head, 1.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://lasher.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lasher.dev/about/</guid>
-      <description>about Current stack  Full stack MERN Jest and Mocha/Chai git docker gcloud jenkins scripting languages (bash, python, AppleScript) some C++ some UML  Career history Hobbies In a previous life I was an avid backpacker. Somewhere along the line I stopped backpacking and I missed it. I recently got back into it.
+      <description>about    Current stack     Full stack MERN Jest and Mocha/Chai git docker gcloud jenkins scripting languages (bash, python, AppleScript) some C++ some UML  Career history    Hobbies    In a previous life I was an avid backpacker. Somewhere along the line I stopped backpacking and I missed it. I recently got back into it.
 I am also a maker. I joined a makerspace in Broomfield so that I could have time and tools to work on personal projects.</description>
     </item>
     
@@ -22,12 +48,7 @@ I am also a maker. I joined a makerspace in Broomfield so that I could have time
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lasher.dev/bookshelf/</guid>
-      <description>Bookshelf Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
-Software Craftsman, The: Professionalism, Pragmatism, Pride by Sandro Mancuso
-Refactoring: Improving the Design of Existing Code by Martin Fowler
-C++ Coding Standards: 101 Rules, Guidelines, and Best Practices by Andrei Alexandrescu
-The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan and Shimon Schocken 
-Digital Computer Electronics by Albert Malvino and Jerald Brown</description>
+      <description>Bookshelf     This is a list of books that I find useful to have in mind while working. These are language and domain agnostic (C++ Coding Standards could be considered to be about c++ but it&amp;rsquo;s use is wider than just the language). Of course I have more reference books about languages and technologies but their use is so different than the ones listed here that it doesn&amp;rsquo;t make sense to include them.</description>
     </item>
     
     <item>

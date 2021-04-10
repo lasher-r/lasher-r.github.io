@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lasher.dev/trips/chicago_basin/</loc>
-    <lastmod>2021-04-08T11:37:49-06:00</lastmod>
+    <loc>https://lasher.dev/</loc>
+    <lastmod>2021-04-09T17:44:26-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lasher.dev/</loc>
+    <loc>https://lasher.dev/projects/motorcycle_sensors/</loc>
+    <lastmod>2021-04-09T17:44:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/projects/</loc>
+    <lastmod>2021-04-09T17:44:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lasher.dev/trips/chicago_basin/</loc>
     <lastmod>2021-04-08T11:37:49-06:00</lastmod>
   </url>
   

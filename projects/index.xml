@@ -13,7 +13,7 @@
       <pubDate>Fri, 09 Apr 2021 17:44:26 -0600</pubDate>
       
       <guid>https://lasher.dev/projects/motorcycle_sensors/</guid>
-      <description>Background    My dad is rebuilding a 1920 Indian Scout motorcycle.
+      <description>Background    My dad is rebuilding a 1929 Indian Scout motorcycle.
 The problem is that it has no speedometer, odometer, or temperature guages and I need to build them.
 Basics    I&amp;rsquo;m using a Metro Mini 328 as the brains. And a METRO 328 for building. The full size is nice because I have a couple each mounted to a breadboard and one with an oled display.</description>
     </item>
